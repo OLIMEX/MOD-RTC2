@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MOD-RTC2_Rev_A)(type Legacy)(uri ${KIPRJMOD}/MOD-RTC2_Rev_A.lib)(options "")(descr ""))
+  (lib (name MOD-RTC_Rev_C-rescue)(type Legacy)(uri ${KIPRJMOD}/MOD-RTC_Rev_C-rescue.lib)(options "")(descr ""))
+)
